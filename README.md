@@ -1,3 +1,5 @@
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+
 # Layoffs Data Analysis
 
 ## Overview
